@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this is team Webers</h1>
 <h3 align="center">A passionate frontend developers from India</h3>
-<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 - 🔭 We currently worked on the project called [WebMed](https://www.figma.com/file/V7uOfynRTwSOjSGgcorKb1/Hackathon?node-id=0%3A1&t=VNeeyg0h4HEZcMBY-1)
 
 
