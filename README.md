@@ -3,7 +3,7 @@
 
 - 🔭 We currently worked on the project called [WebMed](https://www.figma.com/file/V7uOfynRTwSOjSGgcorKb1/Hackathon?node-id=0%3A1&t=VNeeyg0h4HEZcMBY-1)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
