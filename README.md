@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, this is team Webers</h1>
-<h3 align="center">A passionate frontend developers from India</h3>
+<h3 align="center">A passionate frontend developers from India.</h3>
 
 - 🔭 We currently worked on the project called [WebMed](https://www.figma.com/file/V7uOfynRTwSOjSGgcorKb1/Hackathon?node-id=0%3A1&t=VNeeyg0h4HEZcMBY-1)
 
